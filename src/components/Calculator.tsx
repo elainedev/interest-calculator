@@ -26,14 +26,14 @@ const Calculator: React.FC = () => {
   const [totalInterest, setTotalInterest] = useState(0);
 
   useEffect(() => {
-    const today = new Date()
+    const today = new Date();
     const timeDiff = selectedDate ? selectedDate?.valueOf() - today.valueOf() : null;
 
     if (timeDiff) {
-      setElapsedDays(Math.max(0, timeDiff)/MILLISECONDS_IN_A_DAY)
+      setElapsedDays(Math.max(0, timeDiff)/MILLISECONDS_IN_A_DAY);
     }
 
-  }, [selectedDate, startingDate])
+  }, [selectedDate, startingDate]);
 
   useEffect(() => {
     const first36MonthsInterest: number = calculateCompoundInterest(

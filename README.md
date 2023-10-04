@@ -2,9 +2,10 @@
 
 ## Instructions
 1. git clone into project directory
-2. cd into project directory
+2. cd into project directory (`main` branch)
 3. run `npm i`
 4. run `npm run dev`
+5. the project should run locally on http://localhost:5173/
 
 ## Implementation Notes
 - This project is set up using vite and TypeScript.
