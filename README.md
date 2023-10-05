@@ -1,11 +1,15 @@
 # Bank of Trayt - Compound Interest Calculator
 
 ## Instructions
+Visit ![elainedev.github.io/interest-calculator/](elainedev.github.io/interest-calculator/) to see the project in action on GitHub pages!
+
+Alternatively:
 1. git clone into project directory
 2. cd into project directory (`main` branch)
 3. run `npm i`
 4. run `npm run dev`
-5. the project should run locally on http://localhost:5173/
+5. the project should run locally on http://localhost:5173/interest-calculator/
+
 
 ## Implementation Notes
 - This project is set up using vite and TypeScript.
