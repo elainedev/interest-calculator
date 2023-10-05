@@ -3,6 +3,7 @@
 ## Instructions
 Visit [https://elainedev.github.io/interest-calculator/](https://elainedev.github.io/interest-calculator/) to see the project in action on GitHub pages!
 
+
 Alternatively:
 1. git clone into project directory
 2. cd into project directory (`main` branch)
