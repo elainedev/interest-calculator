@@ -1,7 +1,8 @@
 # Bank of Trayt - Compound Interest Calculator
 
 ## Instructions
-Visit [elainedev.github.io/interest-calculator/](elainedev.github.io/interest-calculator/) to see the project in action on GitHub pages!
+Visit [https://elainedev.github.io/interest-calculator/](https://elainedev.github.io/interest-calculator/) to see the project in action on GitHub pages!
+
 
 Alternatively:
 1. git clone into project directory
